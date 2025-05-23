@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("prac43.2")]
+[assembly: AssemblyTitle("prac43.samostoyat")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("prac43.2")]
+[assembly: AssemblyProduct("prac43.samostoyat")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("9412d500-4532-4ea2-acc9-f28894888a7d")]
+[assembly: Guid("d3e3d5b1-48c7-4cb5-80e8-6341151c4097")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
